@@ -11,7 +11,7 @@
 - <b>Link coming soon</b>
 
 <h2> 📖 I'm currently Learning</h2>
-- <b></b>CompTIA A+</b>
+- <b>CompTIA A+</b>
 
 <h2> 🎈 Fun Facts</h2>
 - <b> Enjoy playing Soduko and Chess</b>
