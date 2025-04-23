@@ -8,7 +8,8 @@
 
 <h2> 🔐 Cyber Security Projects</h2>
 
-- <b>Active Directory Home Lab How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/Powershell</b>
+- <b>Active Directory Home Lab</b>
+ - <b>How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/Powershell</b>
    - <b>Link coming soon</b>
  
 <h2> 🛜 Network Projects</h2>
