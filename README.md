@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lee! <br/><a>Computer Networking</a>, <a>PC Builder</a>, <a>Cyber Security</a></h1>
+<h1>Hi, I'm Lee! <br/><a>PC Builder</a>, <a>Computer Networking</a>, <a>Cyber Security</a></h1>
 
 <h2> 🔐 Cyber Security Projects</h2>
 
