@@ -19,7 +19,7 @@
 <h2> 💻 PC Building </h2>
 
 - <b>My PC Setup</b>
- -<b>Link coming soon</b>
+  - <b>Link coming soon</b>
 
 <h2> 🎈 Fun Facts</h2>
 
