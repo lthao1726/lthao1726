@@ -16,6 +16,11 @@
 - <b>SOHO Networking Project with Cisco Packet Tracer</b>
    - <b>Link coming soon</b>
 
+<h2> 💻 PC Building </h2>
+
+- <b>My PC Setup</b>
+ -<b>Link coming soon</b>
+
 <h2> 🎈 Fun Facts</h2>
 
  - <b> ♟️ Enjoy playing Soduko and Chess</b>
