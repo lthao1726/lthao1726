@@ -3,19 +3,19 @@
 <h2> 🔐 Cyber Security Projects</h2>
 
 - <b>Active Directory Home Lab How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/Powershell</b>
-- <b>Link coming soon</b>
+   - <b>Link coming soon</b>
  
 <h2> 🛜 Network Projects</h2>
 
 - <b>SOHO Networking Project with Cisco Packet Tracer</b>
-- <b>Link coming soon</b>
+   - <b>Link coming soon</b>
 
 <h2> 📖 I'm currently Learning</h2>
 - <b>CompTIA A+</b>
 
 <h2> 🎈 Fun Facts</h2>
-- <b>Enjoy playing Soduko and Chess</b>
-- <b>Play Flag Football</b>
+ - Enjoy playing Soduko and Chess
+ - Play Flag Football
 
 <h2> 🤳 Connect with me</h2>
 
