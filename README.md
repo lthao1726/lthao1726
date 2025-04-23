@@ -1,7 +1,9 @@
 <h1>Hi, I'm Lee! <br/><a>PC Builder</a>, <a>Computer Networking</a>, <a>Cyber Security</a></h1>
 
 <h2> 📖 Certificates</h2>
+
 - <b>CompTIA ITF+ 03/2025</b>
+
 - <b>CompTIA A+ Incoming 05/2025</b>
 
 <h2> 🔐 Cyber Security Projects</h2>
