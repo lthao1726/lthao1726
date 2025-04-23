@@ -14,8 +14,8 @@
 - <b>CompTIA A+</b>
 
 <h2> 🎈 Fun Facts</h2>
- - Enjoy playing Soduko and Chess
- - Play Flag Football
+ - <b>Enjoy playing Soduko and Chess</b>
+ - <b>Play Flag Football</b>
 
 <h2> 🤳 Connect with me</h2>
 
