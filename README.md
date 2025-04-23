@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lee! <br/><a>Computer Networking</a>, <a>PC Builder</a>, <a>Cyber Security</a></h1>
 
-<h2>🔐 Cyber Security Projects:</h2>
+<h2>🔐 Cyber Security Projects</h2>
 
 - <b>[Active Directory Home Lab How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/Powershell]</b>
  
@@ -8,7 +8,8 @@
 
 - [SOHO Networking Project with Cisco Packet Tracer]
 
-- 📖 I'm currently Learning
+<h2> 📖 I'm currently Learning</h2>
+- CompTIA A+
   
 <h2> 🤳 Connect with me:</h2>
 
