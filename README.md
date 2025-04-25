@@ -12,8 +12,7 @@
  
 <h2> 🛜 Network Projects</h2>
 
-- <b>SOHO Networking Project with Cisco Packet Tracer</b>
-   - <b>Link coming soon</b>
+- <b>[Small Office Home Office Networking Project with Cisco Packet Tracer](https://github.com/lthao1726/SOHO/blob/main/README.md)</b>
 
 <h2> 💻 PC Building Projects</h2>
 
