@@ -8,9 +8,7 @@
 
 <h2> 🔐 Cyber Security Projects</h2>
 
-- <b>Active Directory Home Lab</b>
-  - <b>How to Setup a Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/Powershell</b>
-   - <b>Link coming soon</b>
+- <b>[Active Directory Home Lab w/ Oracle VirtualBox | Adding User to Domain](https://github.com/lthao1726/ActiveDirectoryProject/blob/main/README.md#active-directory-project)</b>
  
 <h2> 🛜 Network Projects</h2>
 
